@@ -1,0 +1,63 @@
+{
+    "version": 3,
+    "rules": [
+      {"domain": ["2ip.ru"]},
+      {"domain": ["remanga.org"]},
+      {"domain_suffix": [".ru"]},
+      {"domain_suffix": [".su"]},
+      {"domain_suffix": [".xn--p1ai"]},
+      {"domain_suffix": [".xn--80adxhks"]},
+      {"domain_suffix": [".xn--80asehdb"]},
+      {"domain_suffix": [".xn--80aswg"]},
+      {"domain_suffix": [".xn--c1avg"]},
+      {"domain_suffix": [".xn--d1acj3b"]},
+      {"domain_suffix": [".xn--p1acf"]},
+      {"domain_suffix": [".mradx.net"]},
+      {"domain_suffix": [".mvk.com"]},
+      {"domain_suffix": [".userapi.com"]},
+      {"domain_suffix": [".vk-analytics.ru"]},
+      {"domain_suffix": [".vk-apps.com"]},
+      {"domain_suffix": [".vk-apps.ru"]},
+      {"domain_suffix": [".vk-cdn.me"]},
+      {"domain_suffix": [".vk-cdn.net"]},
+      {"domain_suffix": [".vk-portal.net"]},
+      {"domain_suffix": [".vk.cc"]},
+      {"domain_suffix": [".vk.com"]},
+      {"domain_suffix": [".vk.company"]},
+      {"domain_suffix": [".vk.design"]},
+      {"domain_suffix": [".vk.link"]},
+      {"domain_suffix": [".vk.me"]},
+      {"domain_suffix": [".vk.ru"]},
+      {"domain_suffix": [".vk.team"]},
+      {"domain_suffix": [".vkcache.com"]},
+      {"domain_suffix": [".vkgo.app"]},
+      {"domain_suffix": [".vklive.app"]},
+      {"domain_suffix": [".vkmessenger.app"]},
+      {"domain_suffix": [".vkmessenger.com"]},
+      {"domain_suffix": [".vkontakte.ru"]},
+      {"domain_suffix": [".vkuser.net"]},
+      {"domain_suffix": [".vkuseraudio.com"]},
+      {"domain_suffix": [".vkuseraudio.net"]},
+      {"domain_suffix": [".vkuseraudio.ru"]},
+      {"domain_suffix": [".vkusercdn.ru"]},
+      {"domain_suffix": [".vkuserlive.net"]},
+      {"domain_suffix": [".vkuserphoto.ru"]},
+      {"domain_suffix": [".vkuservideo.com"]},
+      {"domain_suffix": [".vkuservideo.net"]},
+      {"domain_suffix": [".vkuservideo.ru"]},
+      {"domain_suffix": [".vkvideo.ru"]},
+      {"domain_suffix": [".vkontakte.ru"]},
+      {"domain_suffix": [".vkontakte.ru"]}
+    ]
+}
+
+
+
+
+
+
+
+
+
+
+
