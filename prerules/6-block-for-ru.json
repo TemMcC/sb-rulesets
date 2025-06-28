@@ -38,12 +38,18 @@
     {"domain_suffix": [".ttoverseaus.net"]},
     {"domain_suffix": [".ttwstatic.com"]},
     {"domain": ["p16-tiktokcdn-com.akamaized.net"]},
+    {"ip_cidr": ["103.136.220.0/22"]},
+    {"ip_cidr": ["101.45.255.0/24"]},
+    {"ip_cidr": ["101.47.188.0/24"]},
+    {"ip_cidr": ["118.26.132.0/24"]},
+    {"ip_cidr": ["71.18.227.0/24"]},
+    {"ip_cidr": ["71.18.247.0/24"]},
+    {"ip_cidr": ["71.18.248.0/24"]},
+    {"ip_cidr": ["71.18.251.0/24"]},
+    {"ip_cidr": ["71.18.252.0/23"]},
+    {"ip_cidr": ["71.18.255.0/24"]},
     {"domain_suffix": [".playstation.com"]},
     {"domain_suffix": [".playstation.net"]},
     {"domain_suffix": [".sonyentertainmentnetwork.com"]}
   ]
 }
-
-
-
-
