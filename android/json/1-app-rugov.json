@@ -1,0 +1,13 @@
+{
+    "version": 3,
+    "rules": [
+        {
+			"package_name": [
+				"ru.rostel",
+				"ru.altarix.mos.pgu",
+                "ru.tii.lkcomu",
+                "ru.fns.lkfl"
+			]
+		}
+    ]
+}
