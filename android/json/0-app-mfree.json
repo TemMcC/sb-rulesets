@@ -1,0 +1,32 @@
+{
+    "version": 3,
+    "rules": [
+        {
+			"package_name": [
+				"org.telegram.messenger",
+				"com.whatsapp",
+                "ru.ok.messages",
+                "ru.oneme.app",
+                "com.snapchat.android",
+                "com.vkontakte.android",
+                "com.vk.vkvideo",
+                "ru.ok.android",
+                "tv.twitch.android.app",
+                "ru.yandex.music",
+                "com.apple.android.music",
+                "com.uma.musicvk",
+                "com.zvooq.openplay",
+                "ru.ivi.client",
+                "ru.more.play",
+                "ru.start.androidmobile",
+                "ru.kinopoisk",
+                "gpm.tnt_premier",
+                "com.amdteka",
+                "ru.yandex.yandexmaps",
+                "com.google.android.apps.maps",
+                "ru.dublgis.dgismobile",
+                "ru.yandex.taxi"
+			]
+		}
+    ]
+}
