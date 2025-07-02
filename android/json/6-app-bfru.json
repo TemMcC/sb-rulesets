@@ -1,0 +1,22 @@
+{
+    "version": 3,
+    "rules": [
+        {
+			"package_name": [
+				"com.opera.browser",
+                "com.openai.chatgpt",
+				"com.anthropic.claude",
+                "com.canva.editor",
+                "notion.id",
+                "com.spotify.music",
+                "com.airbnb.android",
+                "com.booking",
+                "com.wix.admin",
+                "com.scee.psxandroid",
+                "com.microsoft.xboxone.smartglass",
+                "com.microsoft.office.officehubrow",
+                "com.zhiliaoapp.musically"
+			]
+		}
+    ]
+}
