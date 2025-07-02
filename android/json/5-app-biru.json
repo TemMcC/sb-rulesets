@@ -1,0 +1,21 @@
+{
+    "version": 3,
+    "rules": [
+        {
+			"package_name": [
+				"com.brave.browser",
+                "com.facebook.katana",
+				"com.facebook.orca",
+                "com.instagram.android",
+                "com.instagram.barcelona",
+                "com.discord",
+                "com.linkedin.android",
+                "org.thoughtcrime.securesms",
+                "com.soundcloud.android",
+                "com.twitter.android",
+                "com.breakpoint.ficbook",
+                "com.viber.voip"
+			]
+		}
+    ]
+}
