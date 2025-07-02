@@ -1,0 +1,12 @@
+{
+    "version": 3,
+    "rules": [
+        {
+			"package_name": [
+				"com.android.chrome",
+                "com.google.android.youtube",
+				"com.google.android.apps.youtube.music"
+			]
+		}
+    ]
+}
