@@ -2,6 +2,7 @@
   "version": 3,
   "rules": [
     {"domain": ["whatismyipaddress.com"]},
+    {"domain": ["checkip.org"]},
     {"domain": ["ipinfo.io"]},
     {"domain": ["chatgpt.com"]},
     {"domain": ["chat.com"]},
