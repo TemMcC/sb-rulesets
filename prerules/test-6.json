@@ -14,6 +14,7 @@
     {"domain": ["openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net"]},
     {"domain": ["openaicomproductionae4b.blob.core.windows.net"]},
     {"domain": ["production-openaicom-storage.azureedge.net"]},
+    {"domain_regex": ["^chatgpt-async-webps-prod-\\S+-\\d+\\.webpubsub\\.azure\\.com$"]},
     {"domain_suffix": [".livekit.cloud"]},
     {"domain_suffix": [".canva.com"]},
     {"domain_keyword": ["amazon"]},
