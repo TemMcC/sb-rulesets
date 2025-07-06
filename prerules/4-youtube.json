@@ -29,6 +29,7 @@
     {"domain_suffix": [".youtubemobilesupport.com"]},
     {"domain_suffix": [".yt.be"]},
     {"domain_suffix": [".gstatic.com"]},
+    {"ip_cidr": ["34.160.111.145"]},
     {"ip_cidr": ["4.78.139.0/24"]},
     {"ip_cidr": ["23.101.24.0/24"]},
     {"ip_cidr": ["23.202.231.0/24"]},
