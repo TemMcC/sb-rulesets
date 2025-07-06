@@ -50,6 +50,8 @@
     {"ip_cidr": ["71.18.255.0/24"]},
     {"domain_suffix": [".playstation.com"]},
     {"domain_suffix": [".playstation.net"]},
-    {"domain_suffix": [".sonyentertainmentnetwork.com"]}
+    {"domain_suffix": [".sonyentertainmentnetwork.com"]},
+    {"domain_suffix": [".pornhub.com"]},
+    {"domain_suffix": [".pornhub.org"]}
   ]
 }
